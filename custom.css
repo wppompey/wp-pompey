@@ -1,2 +1,11 @@
 /* (C) Copyright Bobbing Wide 2011-2018 */
 /* custom CSS that's not manageable using the customizer */
+/* Note: This is loaded after oik.css so can be used to override oik's definitions */
+
+
+
+.bw_follow_me { 
+	background-color: #00b9eb; 
+}
+
+
