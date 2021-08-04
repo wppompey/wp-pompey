@@ -1,23 +1,22 @@
-# wp-pompey 
-![screenshot](https://raw.githubusercontent.com/bobbingwide/wp-pompey/master/screenshot.png)
-* Contributors: wppompey, bobbingwide
-Donate link:
-* Tags: child-theme
-* Requires at least: 5.5.1
-* Tested up to: 5.8.0
-* Version: 0.1.0
-* License: GPLv3
-* License URI: http://www.gnu.org/licenses/gpl-2.0.html
+=== wp-pompey ===
+Contributors: wppompey, bobbingwide
+Donate link: 
+Tags: child-theme
+Requires at least: 5.5.1
+Tested up to: 5.8.0
+Version: 0.1.0
+License: GPLv3 
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 WordPress Portsmouth child theme
 
-## Description 
+== Description ==
 Child theme of Twenty Seventeen for the wp-pompey.org.uk website.
 
-## Installation 
+== Installation ==
 As for any other theme.
 
-Pre-requisite / recommended plugins:
+Pre-requisite / recommended plugins: 
 
 * [wppompey](https://github.com/wppompey/wppompey)
 * [oik](https://wordpress.org/plugins/oik/)
@@ -25,24 +24,24 @@ Pre-requisite / recommended plugins:
 * [oik-types](https://github.com/bobbingwide/oik-types)
 * [oik-dates](https://github.com/bobbingwide/oik-dates)
 
-## Change Log 
+== Change Log ==
 
-# 0.1.0 
+= 0.1.0 = 
 * Fixed: Update custom.css. #3
 * Changed: Update for WordPress 5.8 - support block-templates. Implement theme.json #6
 * Tested: With WordPress 5.8
 * Tested: With PHP 8.0
 
 
-# 0.0.0 
+= 0.0.0 =
 * Fixed: Need custom.css to override oik.css
 * Added: Create theme as child of Twenty Seventeen with a widget area for Site info #1
 
 
-## Copyright 
+== Copyright ==
 (C) Copyright WP-Pompey 2018-2021
 
-* This program is free software: you can redistribute it and/or modify
+This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
 the Free Software Foundation, either version 2 of the License, or
 (at your option) any later version.
