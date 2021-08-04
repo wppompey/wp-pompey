@@ -1,4 +1,4 @@
-/* (C) Copyright Bobbing Wide 2011-2018 */
+/* (C) Copyright Bobbing Wide 2011-2019 */
 /* custom CSS that's not manageable using the customizer */
 /* Note: This is loaded after oik.css so can be used to override oik's definitions */
 
@@ -8,4 +8,12 @@
 	background-color: #00b9eb; 
 }
 
+div.next-event span.title { 
+	display: block;
+	margin: 0 0 0.75em;
+}
 
+span.dashicons-wordpress.bw_follow_me {  
+	height: 24px; 
+	width: 24px; 
+}
