@@ -25,6 +25,7 @@ function wp_pompey_widgets_init() {
 
 function wp_pompey_after_setup_theme() {
 	add_theme_support( 'block-templates');
+	add_theme_support( 'align-wide');
 }
 
 add_action( 'wp_enqueue_scripts', 'wp_pompey_enqueue_scripts' );
