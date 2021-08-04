@@ -2,8 +2,35 @@
   "version": 1,
   "settings": {
     "color": {
-      "custom": true
-    },
+      "custom": true,
+      "palette": [
+          {
+            "name": "Black",
+            "slug": "black",
+            "color": "#000000"
+          },
+          {
+            "name": "White",
+            "slug": "white",
+            "color": "#ffffff"
+          },
+        {
+          "name": "Vivid red",
+          "slug": "vivid-red",
+          "color": "#cf2e2e"
+        },
+        {
+          "name": "Pale cyan blue",
+          "slug": "pale-cyan-blue",
+          "color": "#8ed1fc"
+        },
+        {
+          "name": "Vivid cyan blue",
+          "slug": "vivid-cyan-blue",
+          "color": "#0693e3"
+        }
+        ]
+      },
     "blocks": {
       "core/paragraph": {
         "color": {
