@@ -17,3 +17,7 @@ span.dashicons-wordpress.bw_follow_me {
 	height: 24px; 
 	width: 24px; 
 }
+
+.wp-block-site-logo.is-default-size img {
+	width: 100%;
+}
