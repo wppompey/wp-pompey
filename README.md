@@ -1,5 +1,5 @@
 # wp-pompey 
-![screenshot](https://raw.githubusercontent.com/bobbingwide/wp-pompey/master/screenshot.png)
+![screenshot](https://raw.githubusercontent.com/wppompey/wp-pompey/master/screenshot.png)
 * Contributors: wppompey, bobbingwide
 Donate link:
 * Tags: child-theme
