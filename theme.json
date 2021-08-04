@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "settings": {
+    "color": {
+      "custom": true
+    },
+    "blocks": {
+      "core/paragraph": {
+        "color": {
+          "custom": true
+        }
+      }
+    }
+  }
+}

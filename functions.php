@@ -23,9 +23,15 @@ function wp_pompey_widgets_init() {
 	) );
 }
 
+function wp_pompey_after_setup_theme() {
+	add_theme_support( 'block-templates');
+}
+
 add_action( 'wp_enqueue_scripts', 'wp_pompey_enqueue_scripts' );
 
 
 add_action( 'widgets_init', 'wp_pompey_widgets_init', 11 );
+
+add_action( 'after_setup_theme', 'wp_pompey_after_setup_theme');
 
 
