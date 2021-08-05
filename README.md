@@ -5,14 +5,14 @@ Donate link:
 * Tags: child-theme
 * Requires at least: 5.5.1
 * Tested up to: 5.8.0
-* Version: 0.1.0
+* Version: 0.1.1
 * License: GPLv3
 * License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 WordPress Portsmouth child theme
 
 ## Description 
-Child theme of Twenty Seventeen for the wp-pompey.org.uk website.
+Child theme of Twenty Seventeen for the [wp-pompey.org.uk](https://wp-pompey.org.uk) website.
 
 ## Installation 
 As for any other theme.
@@ -26,13 +26,17 @@ Pre-requisite / recommended plugins:
 * [oik-dates](https://github.com/bobbingwide/oik-dates)
 
 ## Change Log 
+# 0.1.1 
+* Changed: Add align-wide support #2
+* Changed: Define color.palette in theme.json #2
+* Fixed: Prevent site logo from stretching #6
 
 # 0.1.0 
 * Fixed: Update custom.css. #3
 * Changed: Update for WordPress 5.8 - support block-templates. Implement theme.json #6
+
 * Tested: With WordPress 5.8
 * Tested: With PHP 8.0
-
 
 # 0.0.0 
 * Fixed: Need custom.css to override oik.css
