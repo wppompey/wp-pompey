@@ -28,9 +28,28 @@
           "name": "Vivid cyan blue",
           "slug": "vivid-cyan-blue",
           "color": "#0693e3"
+        },
+        {
+          "name": "Foreground",
+          "slug": "foreground",
+          "color": "#333333"
+        },
+        {
+          "name": "Lighter grey",
+          "slug": "lighter-grey",
+          "color": "#767676"
+        },
+        {
+          "name": "Light grey background",
+          "slug": "light-grey-background",
+          "color": "#eeeeee"
         }
         ]
       },
+    "layout": {
+      "contentSize": "700px",
+      "wideSize": "1000px"
+    },
     "blocks": {
       "core/paragraph": {
         "color": {
